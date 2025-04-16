@@ -33,7 +33,7 @@ This is how you import the library through the repository.
   -- In order to make configs of your own make the inactivity text your own text you want
   -- I may implement theming etc in the future if i come back to this. 
   
-  local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/i77lhm/vaderpaste/refs/heads/main/library.lua"))() 
+  local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/laeraz/trace/refs/heads/main/ui/source.lua"))() 
   local flags = library.flags -- access flags from here.
   ```
 
